@@ -6,7 +6,7 @@ Prepare to harness the power of Apache Airflow, Python, Kafka, Spark, and Cassan
 
 **System Architecture:**
 
-*![Project Architecture](https://github.com/tejasjbansal/Realtime-Scalable-Data-Engineering-Pipeline-/assets/56173595/6f75152b-0252-470d-92e2-742932a7e160)
+![Project Architecture](https://github.com/tejasjbansal/Realtime-Scalable-Data-Engineering-Pipeline-/assets/56173595/6f75152b-0252-470d-92e2-742932a7e160)
 
 
 **Key Features:**
